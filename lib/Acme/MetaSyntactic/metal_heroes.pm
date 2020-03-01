@@ -38,7 +38,6 @@ L<Acme::MetaSyntactic>
 
 __DATA__
 # default
-heroes
+:all
 # names heroes
 gavan sharivan shaider juspion spielban metalder jiraiya jiban winspector solbrain exceedraft janperson blueswat bfighter kabuto kabutack robotack
-# names enemies
